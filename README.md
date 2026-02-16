@@ -5,12 +5,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based_in-Marbella,_Spain-36A1BE?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Based_in-Madrid,_Spain-36A1BE?style=for-the-badge&logo=google-maps&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Live_Entertainment_&_Hospitality-575756?style=for-the-badge&logo=spotlight&logoColor=white" />
 
 <br/><br/>
 
-<!-- Social badges -->
+<!-- Social / web badges -->
+[![Website](https://img.shields.io/badge/dumaloor.es-000000?style=flat-square&logo=safari&logoColor=white)](https://dumaloor.es)
 [![GitHub](https://img.shields.io/badge/GitHub-Duma013-181717?style=flat-square&logo=github)](https://github.com/Duma013)
 
 </div>
@@ -22,14 +23,16 @@
 ```javascript
 const duma = {
     role: "CTO & Software Engineer",
-    location: "Marbella, Spain",
-    focus: ["Live Entertainment", "Hospitality Tech", "Corporate Ops"],
+    location: "Madrid, Spain",
+    focus: ["Live Entertainment", "Hospitality Tech", "E-commerce", "Corporate Ops"],
     platforms: {
         financial:  "Next.js 14 + NestJS + Prisma + PostgreSQL",
         ticketing:  "React 18 + Vite + Node.js (100K+ transactions)",
         supplyChain: "Express + Socket.io + PostgreSQL + Redis",
-        corporate:  "PHP 8 + MySQL + TailwindCSS + Alpine.js"
+        corporate:  "PHP 8 + MySQL + TailwindCSS + Alpine.js",
+        ecommerce:  "Shopify + Liquid + Custom themes"
     },
+    web: "https://dumaloor.es",
     currentlyServing: "360K+ attendees/year · 95+ nationalities",
     philosophy: "Ship fast, keep it simple, iterate on real feedback"
 };
@@ -54,6 +57,10 @@ const duma = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### E-commerce
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 
 #### Data & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -140,20 +147,18 @@ Inventory management
 </td>
 <td width="50%">
 
-<h4 align="center">Corporate Web & CMS</h4>
+<h4 align="center">E-commerce — Shopify</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
 ```
-Bilingual (ES/EN)
-Full CMS admin panel
-1,300+ media assets
-Gallery bulk management
-Rich text editor (Quill)
-SEO optimized
+miraqueguau.com
+Custom Shopify themes
+Product catalog management
+Payment integrations
+Brand identity & UX
 ```
 
 </td>
@@ -192,7 +197,6 @@ SEO optimized
 
 <br/><br/>
 
-<sub>Marbella, Spain — building software for live experiences</sub>
+[![dumaloor.es](https://img.shields.io/badge/dumaloor.es-Visit_website-000?style=for-the-badge&logo=safari&logoColor=white)](https://dumaloor.es)
 
 </div>
-
