@@ -191,6 +191,27 @@ PWA + offline support
 </td>
 <td width="50%">
 
+<h4 align="center">Live Sales Intelligence Display</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Audio_API-FF6B35?style=flat-square&logoColor=white" />
+</p>
+
+```
+TV dashboard · real-time sales feed
+WebSocket push · 60s polling
+League-table artist ranking
+12K+ transactions baseline load
+Audio FX per sale category
+Adaptive multi-column layout
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 <h4 align="center">Custom MCP Server — Live Data</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -207,6 +228,7 @@ VPS-hosted · role-based access
 ```
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -231,7 +253,7 @@ VPS-hosted · role-based access
 
 ### `> git log --oneline -1`
 
-<img src="https://img.shields.io/badge/Status-Shipping_a_membership_club_app-36A1BE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Shipping_a_live_sales_intelligence_display-36A1BE?style=for-the-badge" />
 
 <br/><br/>
 
