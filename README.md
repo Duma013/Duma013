@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36A1BE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CTO+%26+Software+Engineer;Building+platforms+at+scale" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36A1BE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CTO+%26+Software+Engineer;Building+AI-powered+platforms+at+scale" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based_in-Madrid,_Spain-36A1BE?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Live_Entertainment_&_Hospitality-575756?style=for-the-badge&logo=spotlight&logoColor=white" />
+<img src="https://img.shields.io/badge/Based_in-Marbella_·_Madrid,_Spain-36A1BE?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Live_Entertainment_·_AI_Products_·_Mobile-575756?style=for-the-badge&logo=spotlight&logoColor=white" />
 
 <br/><br/>
 
@@ -23,14 +23,15 @@
 ```javascript
 const duma = {
     role: "CTO & Software Engineer",
-    location: "Madrid, Spain",
-    focus: ["Live Entertainment", "Hospitality Tech", "E-commerce", "Corporate Ops"],
+    location: "Marbella · Madrid, Spain",
+    focus: ["Live Entertainment", "Hospitality Tech", "AI Products", "Mobile Apps"],
     platforms: {
-        financial:  "Next.js 14 + NestJS + Prisma + PostgreSQL",
-        ticketing:  "React 18 + Vite + Node.js (100K+ transactions)",
-        supplyChain: "Express + Socket.io + PostgreSQL + Redis",
-        corporate:  "PHP 8 + MySQL + TailwindCSS + Alpine.js",
-        ecommerce:  "Shopify + Liquid + Custom themes"
+        financial:    "Next.js 14 + NestJS + Prisma + PostgreSQL  (StarTeam.pro)",
+        ticketing:    "React 18 + Vite + Node.js  (100K+ transactions/year)",
+        supplyChain:  "Express + Socket.io + PostgreSQL + Redis  (P.A.U.)",
+        mobile:       "React Native + Expo SDK 51 + EAS Build  (Starlite Club App)",
+        ai_voice:     "NestJS + Claude API + Vapi.ai + Twilio  (Star Contigo)",
+        analytics:    "Custom MCP servers + Claude Tool Use + PostHog",
     },
     web: "https://dumaloor.es",
     currentlyServing: "360K+ attendees/year · 95+ nationalities",
@@ -44,37 +45,41 @@ const duma = {
 
 <div align="center">
 
-#### Frontend
+#### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 
 #### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### E-commerce
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+#### AI & Voice
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vapi.ai](https://img.shields.io/badge/Vapi.ai-000000?style=for-the-badge&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 #### Data & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Ecosystem
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -86,40 +91,41 @@ const duma = {
 <tr>
 <td width="50%">
 
-<h4 align="center">Financial Ops Platform</h4>
+<h4 align="center">Starlite Club — iOS & Android App</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo_SDK_51-000020?style=flat-square&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ```
-950+ tests passing
-23 departments
-700+ budget lines
-Multi-edition workflows
-AI assistant (Claude API)
-PDF generation (PDFKit)
+Exclusive membership club app
+4 membership tiers (Friend → Elite)
+Stripe subscriptions + deep links
+Social feed + direct messaging
+AI concierge (Stella — Claude API)
+Push notifications (Expo + FCM)
+Vivenu events sync
+QR membership card
 ```
 
 </td>
 <td width="50%">
 
-<h4 align="center">Real-time Ticketing Dashboard</h4>
+<h4 align="center">Star Contigo — AI Omnichannel</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Vapi.ai-000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
 
 ```
-100K+ transactions synced
-Multi-seller management
-30 operational tabs
-Real-time alerts system
-BI cross-analysis engine
-Dynamic pricing
+Voice + WhatsApp + web chat
+Claude claude-sonnet-4-6 tool use
+Vapi.ai voice (ElevenLabs TTS)
+Replaces VOZEO AI (~75K€/yr saved)
+26 bridge API endpoints
+Outbound call campaigns
 ```
 
 </td>
@@ -127,38 +133,78 @@ Dynamic pricing
 <tr>
 <td width="50%">
 
-<h4 align="center">Supply Chain & POS System</h4>
+<h4 align="center">StarTeam.pro — Financial Ops</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 ```
-Multi-venue operations
-Real-time kitchen displays
-POS terminals + PIN auth
-WebSocket order flow
-AI invoice digitization
-Inventory management
+1,100+ tests passing · 50+ modules
+23 departments · multi-edition
+Cash Flow 6 banks · projection
+YoY Comparison · forecasting
+AI assistant Clau (Claude API)
+BI cross-analysis · 40+ reports
 ```
 
 </td>
 <td width="50%">
 
-<h4 align="center">E-commerce — Shopify</h4>
+<h4 align="center">Starlive Pro — Ticketing Analytics</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Vivenu_API-000?style=flat-square" />
 </p>
 
 ```
-miraqueguau.com
-Custom Shopify themes
-Product catalog management
-Payment integrations
-Brand identity & UX
+100K+ transactions · multi-seller
+16 analytics tabs
+YoY pace tracking · forecasting
+Geography maps (Leaflet + GA4)
+Dynamic pricing engine
+TM + ECI + Baila FM sync
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4 align="center">P.A.U. — Supply Chain & POS</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+```
+18 sprints · 35+ tables · 8 roles
+POS + kitchen displays (KDS)
+Real-time WebSocket order flow
+AI invoice digitization
+1.4M historical data records
+PWA + offline support
+```
+
+</td>
+<td width="50%">
+
+<h4 align="center">Custom MCP Server — Starlite Data</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Tool_Use-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+```
+16 read-only tools for Claude
+Vivenu + Stripe + GA4 + Meta
+7-layer security architecture
+Natural language → live data
+Used by analytics & marketing
+VPS-hosted · role-based access
 ```
 
 </td>
@@ -172,10 +218,12 @@ Brand identity & UX
 ```markdown
  Ship fast, keep it simple, iterate on real feedback
  Security by default — OWASP top 10, rate limiting, input validation
+ AI-first when it saves real money or time — measure the delta
  Modular architecture over monoliths — learned the hard way
  Every platform gets auth, audit trails, and soft deletes
  Bilingual systems (ES/EN) as a first-class concern
  Infrastructure as code — Docker, Nginx, PM2, automated deploys
+ Build mobile like you build web — same patterns, different constraints
 ```
 
 ---
@@ -184,7 +232,7 @@ Brand identity & UX
 
 ### `> git log --oneline -1`
 
-<img src="https://img.shields.io/badge/Status-Building_something_new-36A1BE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Shipping_Starlite_Club_App-36A1BE?style=for-the-badge" />
 
 <br/><br/>
 
