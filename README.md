@@ -26,12 +26,12 @@ const duma = {
     location: "Marbella · Madrid, Spain",
     focus: ["Live Entertainment", "Hospitality Tech", "AI Products", "Mobile Apps"],
     platforms: {
-        financial:    "Next.js 14 + NestJS + Prisma + PostgreSQL  (StarTeam.pro)",
-        ticketing:    "React 18 + Vite + Node.js  (100K+ transactions/year)",
-        supplyChain:  "Express + Socket.io + PostgreSQL + Redis  (P.A.U.)",
-        mobile:       "React Native + Expo SDK 51 + EAS Build  (Starlite Club App)",
-        ai_voice:     "NestJS + Claude API + Vapi.ai + Twilio  (Star Contigo)",
-        analytics:    "Custom MCP servers + Claude Tool Use + PostHog",
+        financial:   "Next.js 14 + NestJS + Prisma + PostgreSQL",
+        ticketing:   "React 18 + Vite + Node.js  (100K+ transactions/year)",
+        supplyChain: "Express + Socket.io + PostgreSQL + Redis",
+        mobile:      "React Native + Expo SDK 51 + EAS Build",
+        ai_voice:    "NestJS + Claude API + Vapi.ai + Twilio",
+        analytics:   "Custom MCP servers + Claude Tool Use + PostHog",
     },
     web: "https://dumaloor.es",
     currentlyServing: "360K+ attendees/year · 95+ nationalities",
@@ -91,7 +91,7 @@ const duma = {
 <tr>
 <td width="50%">
 
-<h4 align="center">Starlite Club — iOS & Android App</h4>
+<h4 align="center">Exclusive Membership App — iOS & Android</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo_SDK_51-000020?style=flat-square&logo=expo&logoColor=white" />
@@ -99,20 +99,19 @@ const duma = {
 </p>
 
 ```
-Exclusive membership club app
-4 membership tiers (Friend → Elite)
+Private club app · live entertainment
+4 membership tiers with gated access
 Stripe subscriptions + deep links
 Social feed + direct messaging
-AI concierge (Stella — Claude API)
+AI concierge (Claude API)
 Push notifications (Expo + FCM)
-Vivenu events sync
-QR membership card
+Events sync + QR membership card
 ```
 
 </td>
 <td width="50%">
 
-<h4 align="center">Star Contigo — AI Omnichannel</h4>
+<h4 align="center">AI Omnichannel Customer Assistant</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Vapi.ai-000?style=flat-square&logoColor=white" />
@@ -122,8 +121,8 @@ QR membership card
 ```
 Voice + WhatsApp + web chat
 Claude claude-sonnet-4-6 tool use
-Vapi.ai voice (ElevenLabs TTS)
-Replaces VOZEO AI (~75K€/yr saved)
+Vapi.ai voice · ElevenLabs TTS
+Replaces legacy SaaS (~75K€/yr)
 26 bridge API endpoints
 Outbound call campaigns
 ```
@@ -133,7 +132,7 @@ Outbound call campaigns
 <tr>
 <td width="50%">
 
-<h4 align="center">StarTeam.pro — Financial Ops</h4>
+<h4 align="center">Financial Operations Platform</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -141,22 +140,22 @@ Outbound call campaigns
 </p>
 
 ```
-1,100+ tests passing · 50+ modules
-23 departments · multi-edition
-Cash Flow 6 banks · projection
-YoY Comparison · forecasting
-AI assistant Clau (Claude API)
+1,100+ tests · 50+ modules
+Multi-department · multi-edition
+Cash flow 6 banks · projection
+YoY comparison · forecasting
+AI assistant (Claude API)
 BI cross-analysis · 40+ reports
 ```
 
 </td>
 <td width="50%">
 
-<h4 align="center">Starlive Pro — Ticketing Analytics</h4>
+<h4 align="center">Real-time Ticketing Analytics</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Vivenu_API-000?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 ```
@@ -165,7 +164,7 @@ BI cross-analysis · 40+ reports
 YoY pace tracking · forecasting
 Geography maps (Leaflet + GA4)
 Dynamic pricing engine
-TM + ECI + Baila FM sync
+Multi-channel distribution sync
 ```
 
 </td>
@@ -173,7 +172,7 @@ TM + ECI + Baila FM sync
 <tr>
 <td width="50%">
 
-<h4 align="center">P.A.U. — Supply Chain & POS</h4>
+<h4 align="center">Supply Chain & POS System</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io" />
@@ -192,7 +191,7 @@ PWA + offline support
 </td>
 <td width="50%">
 
-<h4 align="center">Custom MCP Server — Starlite Data</h4>
+<h4 align="center">Custom MCP Server — Live Data</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Tool_Use-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -200,7 +199,7 @@ PWA + offline support
 
 ```
 16 read-only tools for Claude
-Vivenu + Stripe + GA4 + Meta
+Ticketing + Payments + GA4 + Meta
 7-layer security architecture
 Natural language → live data
 Used by analytics & marketing
@@ -232,7 +231,7 @@ VPS-hosted · role-based access
 
 ### `> git log --oneline -1`
 
-<img src="https://img.shields.io/badge/Status-Shipping_Starlite_Club_App-36A1BE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Shipping_a_membership_club_app-36A1BE?style=for-the-badge" />
 
 <br/><br/>
 
