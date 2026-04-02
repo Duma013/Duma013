@@ -228,7 +228,65 @@ VPS-hosted · role-based access
 ```
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+<h4 align="center">Campaign Marketing Platform</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/ActiveCampaign-004CFF?style=flat-square&logoColor=white" />
+</p>
+
+```
+Landing + CMS + analytics funnel
+Auto-generates discount codes
+Real-time Vivenu coupon sync
+ActiveCampaign list auto-enroll
+Anti-bot: honeypot + rate limit
+Form abandonment tracking
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4 align="center">Multi-Channel Ticketing Sync Engine</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Cron-004088?style=flat-square&logoColor=white" />
+</p>
+
+```
+4 distributors → 1 ticketing platform
+Anti-duplicate state engine
+Seating map auto-assignment
+Dynamic ticket type resolution
+500+ transactions synced/day
+Zero-config multi-seller detection
+```
+
+</td>
+<td width="50%">
+
+<h4 align="center">Photographer Portfolio & CMS</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+```
+Custom headless CMS (no WP)
+Dynamic gallery with lazy load
+Admin panel for content mgmt
+Optimized image delivery via R2
+SSG + ISR hybrid rendering
+Lighthouse 100 · mobile-first
+```
+
+</td>
 </tr>
 </table>
 
@@ -253,7 +311,7 @@ VPS-hosted · role-based access
 
 ### `> git log --oneline -1`
 
-<img src="https://img.shields.io/badge/Status-Shipping_a_live_sales_intelligence_display-36A1BE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Shipping_campaign_platforms_&_AI_integrations-36A1BE?style=for-the-badge" />
 
 <br/><br/>
 
