@@ -24,14 +24,16 @@
 const duma = {
     role: "CTO & Software Engineer",
     location: "Marbella · Madrid, Spain",
-    focus: ["Live Entertainment", "Hospitality Tech", "AI Products", "Mobile Apps"],
+    focus: ["Live Entertainment", "Hospitality Tech", "AI Products", "Desktop & Mobile Apps"],
     platforms: {
-        financial:   "Next.js 14 + NestJS + Prisma + PostgreSQL",
-        ticketing:   "React 18 + Vite + Node.js  (100K+ transactions/year)",
-        supplyChain: "Express + Socket.io + PostgreSQL + Redis",
-        mobile:      "React Native + Expo SDK 51 + EAS Build",
-        ai_voice:    "NestJS + Claude API + Vapi.ai + Twilio",
+        financial:   "Next.js 14 + NestJS + Prisma + PostgreSQL (50+ modules, 1100+ tests)",
+        ticketing:   "React 18 + Vite + Node.js (100K+ transactions/year)",
+        supplyChain: "Express + Socket.io + PostgreSQL + Redis (PWA + AI OCR)",
+        mobile:      "React Native + Expo SDK 53 + EAS Build",
+        ai_voice:    "NestJS + Claude API + Vapi.ai + Twilio (replaced 75K/yr SaaS)",
+        desktop:     "Electron + WebRTC + nut.js (remote support tool)",
         analytics:   "Custom MCP servers + Claude Tool Use + PostHog",
+        video:       "Remotion + React (automated animated templates)",
     },
     web: "https://dumaloor.es",
     currentlyServing: "360K+ attendees/year · 95+ nationalities",
@@ -45,10 +47,11 @@ const duma = {
 
 <div align="center">
 
-#### Frontend & Mobile
+#### Frontend, Mobile & Desktop
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -73,8 +76,10 @@ const duma = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Ecosystem
+#### Ecosystem & Realtime
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -251,39 +256,39 @@ Form abandonment tracking
 <tr>
 <td width="50%">
 
-<h4 align="center">Multi-Channel Ticketing Sync Engine</h4>
+<h4 align="center">Remote Support Desktop App</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Cron-004088?style=flat-square&logoColor=white" />
 </p>
 
 ```
-4 distributors → 1 ticketing platform
-Anti-duplicate state engine
-Seating map auto-assignment
-Dynamic ticket type resolution
-500+ transactions synced/day
-Zero-config multi-seller detection
+Custom TeamViewer alternative
+Screen share + remote control
+Bidirectional audio (WebRTC)
+Integrated chat
+6-digit code pairing system
+Mac (ARM + Intel) & Windows
 ```
 
 </td>
 <td width="50%">
 
-<h4 align="center">Photographer Portfolio & CMS</h4>
+<h4 align="center">Animated Video Template Engine</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ```
-Custom headless CMS (no WP)
-Dynamic gallery with lazy load
-Admin panel for content mgmt
-Optimized image delivery via R2
-SSG + ISR hybrid rendering
-Lighthouse 100 · mobile-first
+Programmatic video generation
+React-based motion templates
+Dynamic data-driven renders
+Brand-consistent animations
+Batch export for social media
+Artist lineup announcements
 ```
 
 </td>
@@ -311,7 +316,7 @@ Lighthouse 100 · mobile-first
 
 ### `> git log --oneline -1`
 
-<img src="https://img.shields.io/badge/Status-Shipping_campaign_platforms_&_AI_integrations-36A1BE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Shipping_desktop_apps,_AI_voice_&_video_engines-36A1BE?style=for-the-badge" />
 
 <br/><br/>
 
